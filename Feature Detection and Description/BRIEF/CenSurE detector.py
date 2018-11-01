@@ -1,7 +1,7 @@
 import numpy as np
 import cv2 as cv
 
-cap = cv.VideoCapture(1)
+cap = cv.VideoCapture(0)
 # Initiate FAST detector
 star = cv.xfeatures2d.StarDetector_create()
 # Initiate BRIEF extractor

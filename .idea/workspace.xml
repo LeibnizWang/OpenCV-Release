@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84debc02-c010-4244-a40b-d9b52060a156" name="Default" comment="" />
+    <list default="true" id="84debc02-c010-4244-a40b-d9b52060a156" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_ORB_Descriptors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature Detection and Description/BRIEF/CenSurE detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feature Detection and Description/BRIEF/CenSurE detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature Detection and Description/ORB/ORB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feature Detection and Description/ORB/ORB.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +23,7 @@
     <SUITE FILE_PATH="coverage/OpenCV_Files$Drawing.coverage" NAME="Drawing Coverage Results" MODIFIED="1539843487646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Shi_TomasiCornerDetector.coverage" NAME="Shi_TomasiCornerDetector Coverage Results" MODIFIED="1540778363433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Shi-Tomasi Corner Detector &amp; Good Features to Track" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$CenSurE_detector.coverage" NAME="CenSurE detector Coverage Results" MODIFIED="1540883319750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/BRIEF" />
+    <SUITE FILE_PATH="coverage/OpenCV_Release$ORB.coverage" NAME="ORB Coverage Results" MODIFIED="1541029915426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/ORB" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$FAST.coverage" NAME="FAST Coverage Results" MODIFIED="1540882134945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/FAST Algorithm" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Capture_Video_from_Camera.coverage" NAME="Capture_Video_from_Camera Coverage Results" MODIFIED="1540445073834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Trackbar_as_the_Color_Palette.coverage" NAME="Trackbar_as_the_Color_Palette Coverage Results" MODIFIED="1539843598867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Trackbar as the Color Palette" />
@@ -24,7 +31,9 @@
     <SUITE FILE_PATH="coverage/OpenCV_Files$SIFT.coverage" NAME="SIFT Coverage Results" MODIFIED="1540883451598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/SIFT" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Harris_Corner_Detector.coverage" NAME="Harris_Corner_Detector Coverage Results" MODIFIED="1540445717567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Harris Corner Detection" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Corner_with_SubPixel_Accuracy.coverage" NAME="Corner_with_SubPixel_Accuracy Coverage Results" MODIFIED="1540882107379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Harris Corner Detection" />
+    <SUITE FILE_PATH="coverage/OpenCV_Release$CenSurE_detector.coverage" NAME="CenSurE detector Coverage Results" MODIFIED="1541031749852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/BRIEF" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Saving_Video.coverage" NAME="Saving_Video Coverage Results" MODIFIED="1539842867935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
+    <SUITE FILE_PATH="coverage/OpenCV_Release$Brute_Force_Matching_with_ORB_Descriptors.coverage" NAME="Brute_Force_Matching_with_ORB_Descriptors Coverage Results" MODIFIED="1541032419775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$FAST_NonmaxSuppression.coverage" NAME="FAST-NonmaxSuppression Coverage Results" MODIFIED="1540882290589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/FAST Algorithm" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -60,14 +69,54 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1901537553">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="127" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="127" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Feature Detection and Description/SURF/SURF.py">
+        <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_ORB_Descriptors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="98">
+              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Feature Detection and Description/BRIEF/CenSurE detector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -84,6 +133,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -99,10 +151,11 @@
         <option value="$PROJECT_DIR$/Feature Detection and Description/FAST Algorithm/FAST-NonmaxSuppression.py" />
         <option value="$PROJECT_DIR$/Feature Detection and Description/FAST Algorithm/FAST.py" />
         <option value="$PROJECT_DIR$/Feature Detection and Description/Harris Corner Detection/Corner_with_SubPixel_Accuracy.py" />
-        <option value="$PROJECT_DIR$/Feature Detection and Description/BRIEF/CenSurE detector.py" />
-        <option value="$PROJECT_DIR$/Feature Detection and Description/ORB/ORB.py" />
         <option value="$PROJECT_DIR$/Feature Detection and Description/SIFT/SIFT.py" />
         <option value="$PROJECT_DIR$/Feature Detection and Description/SURF/SURF.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/ORB/ORB.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/BRIEF/CenSurE detector.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_ORB_Descriptors.py" />
       </list>
     </option>
   </component>
@@ -118,34 +171,37 @@
     <option name="width" value="1734" />
     <option name="height" value="1008" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="OpenCV Files" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV Files" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV-Release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenCV-Release" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OpenCV Files" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV Files" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV-Release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenCV-Release" type="462c0819:PsiDirectoryNode" />
               <item name="Feature Detection and Description" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OpenCV Files" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV Files" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV-Release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenCV-Release" type="462c0819:PsiDirectoryNode" />
               <item name="Feature Detection and Description" type="462c0819:PsiDirectoryNode" />
-              <item name="SURF" type="462c0819:PsiDirectoryNode" />
+              <item name="BRIEF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,7 +227,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SURF">
+  <component name="RunManager" selected="Python.Brute_Force_Matching_with_ORB_Descriptors">
+    <configuration name="Brute_Force_Matching_with_ORB_Descriptors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_ORB_Descriptors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="CenSurE detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpenCV Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,28 +264,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature Detection and Description/BRIEF/CenSurE detector.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FAST-NonmaxSuppression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="OpenCV Files" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feature Detection and Description/FAST Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature Detection and Description/FAST Algorithm/FAST-NonmaxSuppression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,19 +339,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.FAST-NonmaxSuppression" />
       <item itemvalue="Python.CenSurE detector" />
       <item itemvalue="Python.ORB" />
       <item itemvalue="Python.SIFT" />
       <item itemvalue="Python.SURF" />
+      <item itemvalue="Python.Brute_Force_Matching_with_ORB_Descriptors" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Brute_Force_Matching_with_ORB_Descriptors" />
+        <item itemvalue="Python.CenSurE detector" />
+        <item itemvalue="Python.ORB" />
         <item itemvalue="Python.SURF" />
         <item itemvalue="Python.SIFT" />
-        <item itemvalue="Python.ORB" />
-        <item itemvalue="Python.CenSurE detector" />
-        <item itemvalue="Python.FAST-NonmaxSuppression" />
       </list>
     </recent_temporary>
   </component>
@@ -323,13 +379,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="4" width="1156" height="672" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27372262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27919707" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49560118" weight="0.3537037" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49560118" visible="true" weight="0.44074073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,20 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Feature Detection and Description/ORB/ORB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Feature Detection and Description/BRIEF/CenSurE detector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Feature Detection and Description/SIFT/SIFT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -463,8 +506,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Feature Detection and Description/SURF/SURF.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="170">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature Detection and Description/ORB/ORB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature Detection and Description/BRIEF/CenSurE detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_ORB_Descriptors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
