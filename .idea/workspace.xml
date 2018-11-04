@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84debc02-c010-4244-a40b-d9b52060a156" name="Default" comment="2018/11/1About Feature Matching.">
-      <change afterPath="$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to find Objects/Homography_Feature_Match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_SIFT_Descriptors_and_Ratio_Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN based Matcher.py" afterDir="false" />
+    <list default="true" id="84debc02-c010-4244-a40b-d9b52060a156" name="Default" comment="2018/11/1 18:51 About Feature Matching.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feature Detection and Description/SIFT/SIFT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feature Detection and Description/SIFT/SIFT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/Capture_Video_from_Camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/Capture_Video_from_Camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to find Objects/Homography_Feature_Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to find Objects/Homography_Feature_Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN based Matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN based Matcher.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +16,7 @@
     <SUITE FILE_PATH="coverage/OpenCV_Files$Drawing_Line.coverage" NAME="Drawing_Line Coverage Results" MODIFIED="1539843109503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Image_Blending.coverage" NAME="Image_Blending Coverage Results" MODIFIED="1539851815351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operations" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$ORB.coverage" NAME="ORB Coverage Results" MODIFIED="1540883399200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/ORB" />
-    <SUITE FILE_PATH="coverage/OpenCV_Release$Capture_Video_from_Camera.coverage" NAME="Capture_Video_from_Camera Coverage Results" MODIFIED="1541037687617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
+    <SUITE FILE_PATH="coverage/OpenCV_Release$Capture_Video_from_Camera.coverage" NAME="Capture_Video_from_Camera Coverage Results" MODIFIED="1541077374468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
     <SUITE FILE_PATH="coverage/OpenCV_Release$ORB.coverage" NAME="ORB Coverage Results" MODIFIED="1541029915426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/ORB" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Capture_Video_from_Camera.coverage" NAME="Capture_Video_from_Camera Coverage Results" MODIFIED="1540445073834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
     <SUITE FILE_PATH="coverage/OpenCV_Release$SIFT.coverage" NAME="SIFT Coverage Results" MODIFIED="1541034738714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/SIFT" />
@@ -37,8 +34,8 @@
     <SUITE FILE_PATH="coverage/OpenCV_Files$Trackbar_as_the_Color_Palette.coverage" NAME="Trackbar_as_the_Color_Palette Coverage Results" MODIFIED="1539843598867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Trackbar as the Color Palette" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Corner_with_SubPixel_Accuracy.coverage" NAME="Corner_with_SubPixel_Accuracy Coverage Results" MODIFIED="1540882107379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Harris Corner Detection" />
     <SUITE FILE_PATH="coverage/OpenCV_Release$CenSurE_detector.coverage" NAME="CenSurE detector Coverage Results" MODIFIED="1541031749852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/BRIEF" />
-    <SUITE FILE_PATH="coverage/OpenCV_Release$FLANN_based_Matcher.coverage" NAME="FLANN based Matcher Coverage Results" MODIFIED="1541042232180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
-    <SUITE FILE_PATH="coverage/OpenCV_Release$Homography_Feature_Match.coverage" NAME="Homography_Feature_Match Coverage Results" MODIFIED="1541069301735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to find Objects" />
+    <SUITE FILE_PATH="coverage/OpenCV_Release$FLANN_based_Matcher.coverage" NAME="FLANN based Matcher Coverage Results" MODIFIED="1541209925170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
+    <SUITE FILE_PATH="coverage/OpenCV_Release$Homography_Feature_Match.coverage" NAME="Homography_Feature_Match Coverage Results" MODIFIED="1541316207734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to find Objects" />
     <SUITE FILE_PATH="coverage/OpenCV_Files$Saving_Video.coverage" NAME="Saving_Video Coverage Results" MODIFIED="1539842867935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
     <SUITE FILE_PATH="coverage/OpenCV_Release$Brute_Force_Matching_with_ORB_Descriptors.coverage" NAME="Brute_Force_Matching_with_ORB_Descriptors Coverage Results" MODIFIED="1541034438059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
   </component>
@@ -78,65 +75,44 @@
     <session id="-1901537553">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="260" />
-          <entry key="txt" value="44" />
+          <entry key="py" value="281" />
+          <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="260" />
+          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="Python" value="281" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN based Matcher.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to find Objects/Homography_Feature_Match.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_SIFT_Descriptors_and_Ratio_Test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="28" lean-forward="true" selection-end-line="39" />
+            <state relative-caret-position="612">
+              <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -182,8 +158,8 @@
         <option value="$PROJECT_DIR$/Feature Detection and Description/SIFT/SIFT.py" />
         <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_SIFT_Descriptors_and_Ratio_Test.py" />
         <option value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/Capture_Video_from_Camera.py" />
-        <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN based Matcher.py" />
         <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to find Objects/Homography_Feature_Match.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN based Matcher.py" />
       </list>
     </option>
   </component>
@@ -194,10 +170,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
+    <option name="x" value="87" />
     <option name="y" value="3" />
     <option name="width" value="1734" />
-    <option name="height" value="1019" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -214,11 +190,6 @@
             <path>
               <item name="OpenCV-Release" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenCV-Release" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenCV-Release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV-Release" type="462c0819:PsiDirectoryNode" />
-              <item name="Feature Detection and Description" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -395,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541033758549</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2018/11/1 18:51 About Feature Matching.">
+      <created>1541069491606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541069491606</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -408,15 +386,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="2" width="1156" height="679" extended-state="0" />
-    <editor active="true" />
+    <frame x="58" y="2" width="1156" height="680" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27919707" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.290146" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49560118" visible="true" weight="0.28702012" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49560118" visible="true" weight="0.28649634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,7 +420,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2018/11/1About Feature Matching." />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/11/1About Feature Matching." />
+    <MESSAGE value="2018/11/1 18:51 About Feature Matching." />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/11/1 18:51 About Feature Matching." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/Saving_Video.py">
@@ -468,20 +446,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gui Features in OpenCV/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Gui Features in OpenCV/Trackbar as the Color Palette/Trackbar_as_the_Color_Palette.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Core Operations/Image_Blending.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Harris Corner Detection/Harris_Corner_Detector.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -528,9 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,9 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,9 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,43 +520,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-85">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/Capture_Video_from_Camera.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN based Matcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute_Force_Matching_with_SIFT_Descriptors_and_Ratio_Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" lean-forward="true" selection-end-line="39" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-132">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN based Matcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operations/Image_Blending.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gui Features in OpenCV/Trackbar as the Color Palette/Trackbar_as_the_Color_Palette.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to find Objects/Homography_Feature_Match.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        <state relative-caret-position="612">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
